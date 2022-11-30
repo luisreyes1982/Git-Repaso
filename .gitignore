@@ -1,3 +1,4 @@
 Aqui vamos a agregar los nombres de los archivos o rutas para que git las ignore y no subirlas
 .env
 node_modules/
+entre otros
